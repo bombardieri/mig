@@ -2,6 +2,7 @@
 
 Simple tool to generate indexes for markdown files from their headings.
 
+## Index
 1. [Installation](#installation)
     1. [Note for Linux systems](#note-for-linux-systems)
 2. [How to run the tool](#how-to-run-the-tool)
