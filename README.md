@@ -7,6 +7,7 @@ Simple tool to generate indexes for markdown files from their headings.
 ## Index
 1. [Installation](#installation)
     1. [Note for Linux systems](#note-for-linux-systems)
+    2. [Note for mac OS systems](#note-for-mac-os-systems)
 2. [How to run the tool](#how-to-run-the-tool)
 3. [For those that think that this is nothing special](#for-those-that-think-that-this-is-nothing-special)
 4. [Demo](#demo)
@@ -23,6 +24,13 @@ If you are on an Ubuntu-based distro, the following command should do the job:
 ```
 sudo apt-get install python3-tk
 ```
+
+### Note for mac OS systems
+If you are on mac OS, the following command will install ```tkinter```:
+```
+sudo brew install python-tk
+```
+
 
 ## How to run the tool
 Run this command:
